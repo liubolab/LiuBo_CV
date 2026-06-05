@@ -1,4 +1,3 @@
-# LiuBo_CV
 
 # Hi, I'm Bo Liu 👋
 
